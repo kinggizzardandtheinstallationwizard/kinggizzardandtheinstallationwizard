@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-I'm very fond of the Go programming language.
-
-
 - 🔭 I’m currently working on **college classes**
 - 🌱 I’m currently learning **C, C++, and Go**
 - 👯 I’m looking to collaborate on **anything!**
