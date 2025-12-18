@@ -11,6 +11,8 @@
 
 My avatar is the "Go" gopher, drawn by [Renee French](https://reneefrench.blogspot.com/) - <a rel="nofollow" class="external free" href="https://golang.org/doc/gopher/README">http://golang.org/doc/gopher/README</a>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>
 
+![alt text: screenshot of the plan 9 front operating system](reisensc.png)
+
 <!--
 **kinggizzardandtheinstallationwizard/kinggizzardandtheinstallationwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
