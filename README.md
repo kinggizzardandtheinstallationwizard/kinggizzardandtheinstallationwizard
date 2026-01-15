@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on **college classes**
-- 🌱 I’m currently learning **C, C++, and Go**
+- 🌱 I’m currently learning **C and Go**
 - 👯 I’m looking to collaborate on **anything!**
 - 🤔 I’m looking for help with **everything :(**
 - 💬 Ask me about **Plan 9**
