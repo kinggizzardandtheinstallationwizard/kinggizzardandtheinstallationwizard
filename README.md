@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **anything!**
 - 🤔 I’m looking for help with **everything :(**
 - 💬 Ask me about **Plan 9**
-- 📫 How to reach me: **don't!**
+- 📫 How to reach me: **@wiz:g24.at on matrix**
 - 😄 Pronouns: **He/him**
 - ⚡ Fun fact: **Chinese takeout boxes were first invented to carry oysters**
 
