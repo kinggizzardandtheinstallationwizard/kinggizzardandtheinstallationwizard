@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **anything!**
 - 🤔 I’m looking for help with **everything :(**
 - 💬 Ask me about **Plan 9**
-- 📫 How to reach me: **@kinggizzardandtheinstallationwizard:nope.chat on matrix**
+- 📫 How to reach me: **Session ID: `052e19a19e9aebf201405fdfa845ddce33121aedb2b2759c5fb524cd6a40fef62b`**
 - 😄 Pronouns: **He/him**
 - ⚡ Fun fact: **Chinese takeout boxes were first invented to carry oysters**
 
